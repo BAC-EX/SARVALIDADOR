@@ -27,3 +27,4 @@ setuptools # Necesario para algunas dependencias
 
 # Para crear el ejecutable
 pyinstaller
+streamlit
